@@ -23,6 +23,7 @@ When designing and building front-end applications, a good approach is to break 
 
 ## App Oranization
 Here's how the app is organized:
+![app organization](https://user-images.githubusercontent.com/7968370/28292844-f256c5f6-6b05-11e7-8df2-f34061d2c2f0.png)
 * App - The top level container for the entire application. This is the component that will be rendered to the DOM
 * Search - Responsible for knowing and communicating information about the search input field
 * VideoPlayer - Responsible for playing a single video and displaying information about it
